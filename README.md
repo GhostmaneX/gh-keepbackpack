@@ -2,6 +2,8 @@
 
 - A backpacks script that allows players to carry more items within their inventory.
 
+[![MasterHead](https://cdn.discordapp.com/attachments/1009569570782195732/1076111898468171827/rainbow-loading-bar.gif)](https://google.com/)
+
 # Key Features
 
 - players can carry more materials in their inventory
